@@ -1,0 +1,2 @@
+# Perceptron
+Model pojedynczego perceptronu 
